@@ -1,0 +1,35 @@
+.a{
+background-image:linear-gradient(to right,red,orange,yellow,green,blue,lime);
+
+
+}
+
+
+
+.def{
+border-style:solid;
+background-image:linear-gradient(to bottom right, red,blue,yellow)
+
+
+}
+
+body {
+
+    background-image: linear-gradient(to bottom right, red,orange,yellow,green,blue,indigo,violet),;
+ background-color:black;
+
+}
+
+
+
+.meaning{color:white;
+background-image: linear-gradient(to top left,red,yellow,lime,);
+background-image: linear-gradient(to bottom right, red,blue,yellow);
+
+}
+
+.tw{
+color:white;
+
+
+}

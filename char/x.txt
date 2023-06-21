@@ -1,0 +1,36 @@
+<h1 class="main">If you know how to code join</h1> 
+ <img class="b" src="images.jpg"> 
+
+
+
+
+
+
+  <img src="./qrcode_jodyhome.asuscomm.com.png">
+
+
+
+
+  background-color: aquamarine;
+
+
+
+
+
+  hey guys this is the char chards website there is nothing on it right now but i can add stuff!!!
+
+
+
+  <button onclick="alert ('')">hello</button>
+
+
+
+  this is the char chards website nothing on it now ^_^
+
+
+
+
+    background-image: linear-gradient( blue, white , lime);
+
+
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);

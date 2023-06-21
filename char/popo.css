@@ -1,0 +1,53 @@
+
+
+.main{
+align-content: top;
+justify-content:center ;
+
+
+}
+
+.b {justify-content: center;}
+
+body {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet,);
+background-color:black;
+}
+
+
+
+
+.top{
+background-color:green;
+height: 250;
+text-align-last: center;
+text-justify: center;
+justify-self: center ;
+background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+
+}
+
+.text{
+
+    border-style:solid;
+    height:500px;
+    background-image: linear-gradient(to right, blue, teal , lime);
+}
+
+
+.chards{
+size:64px;
+
+}
+
+.ooo{
+background-color: blue;
+color:lime;
+
+}
+
+
+
+.subtittle{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
