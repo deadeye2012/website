@@ -1,0 +1,20 @@
+.a {
+    background-image: linear-gradient(to right, blue, teal, lime);
+    width: 170px
+}
+
+.tittle {
+    size: 150px;
+}
+
+
+.img {
+    background-color:blue;
+    width:350px;
+    height: 250px;
+}
+
+h1{
+margin:0px;
+
+}
