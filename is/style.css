@@ -1,4 +1,9 @@
-.logo{
-height:540px;
-width:100%;
+.logo {
+    height: 540px;
+    width: 100%;
+}
+
+
+.e {
+ background-image: linear-gradient(to bottom left,red,blue,green);   
 }
