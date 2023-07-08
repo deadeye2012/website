@@ -7,3 +7,14 @@
 .e {
  background-image: linear-gradient(to bottom left,red,blue,green);   
 }
+.f{
+    color:aqua;
+    background-color: black;
+    font-size:20px;
+    margin:0px;
+    margin-bottom: 46.6px;
+}
+
+.b{
+    background-color: aqua;
+}
