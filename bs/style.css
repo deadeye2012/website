@@ -1,3 +1,13 @@
 .a{
    width:1020px; 
 }
+
+.def{
+    background-color: navy;
+    color:white;
+}
+
+
+a:hover{
+    color:black;
+}
