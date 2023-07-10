@@ -11,3 +11,9 @@
 a:hover{
     color:black;
 }
+
+
+body{
+    background-image: url("./images.jpg");
+    background-size: cover;
+}
